@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "turtlebot_action_drive/action/DriveCommand_Feedback",
+      "fields": [
+        {
+          "name": "structure_needs_at_least_one_member",
+          "type": {
+            "type_id": 3,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "turtlebot_action_drive/action/DriveCommand_Feedback",
+      "hash_string": "RIHS01_101a82258aefc9ceb11ab0a5f7fc500a18d1c8ff5bef038095fccc5931078302"
+    }
+  ]
+}
