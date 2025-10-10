@@ -22,3 +22,19 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+# IDE
+.vscode/
+*.vc.db
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# ROS 2 workspace products
+build/
+install/
+log/
