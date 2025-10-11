@@ -1,74 +1,7 @@
-# ROS 2 build artifacts - DO NOT UPLOAD
 build/
 install/
 log/
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-*.egg
-*.egg-info/
-dist/
-
-# IDE
 .vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
-# IDE
-.vscode/
-*.vc.db
-
-# macOS
-.DS_Store
-
-# Python
-__pycache__/
 *.pyc
-.pytest_cache/
-
-# ROS 2 workspace products
-build/
-install/
-log/
-# IDE
-.vscode/
-*.vc.db
-
-# macOS
-.DS_Store
-
-# Python
 __pycache__/
-*.pyc
-.pytest_cache/
-
-# ROS 2 workspace products
-build/
-install/
-log/
-.vscode/
-*.vc.db
-build/
-install/
-log/
-__pycache__/
-*.pyc
-.pytest_cache/
-.DS_Store
-.vscode/
-*.vc.db
-build/
-install/
-log/
-__pycache__/
-*.pyc
-.pytest_cache/
 .DS_Store
