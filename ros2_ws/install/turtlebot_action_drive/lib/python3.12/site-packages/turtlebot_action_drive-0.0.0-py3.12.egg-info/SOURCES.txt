@@ -1,8 +1,0 @@
-setup.py
-turtlebot_action_drive/__init__.py
-turtlebot_action_drive.egg-info/PKG-INFO
-turtlebot_action_drive.egg-info/SOURCES.txt
-turtlebot_action_drive.egg-info/dependency_links.txt
-turtlebot_action_drive.egg-info/top_level.txt
-turtlebot_action_drive/action/__init__.py
-turtlebot_action_drive/action/_drive_command.py
